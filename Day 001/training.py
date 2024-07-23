@@ -1,26 +1,24 @@
-# print("Hello World!") 
-# print("Hello World!") 
-# print("Hello World!")
+#Just print
+print("Hello World!") 
+print("Hello World!") 
+print("Hello World!")
 
-# print("Hello World!\nHello World!\nHello World!")
+#Combine the sentences into one print statement
+print("Hello World!\nHello World!\nHello World!")
+print("Hello" + " " + "Angela")
 
-# print("Hello" + " " + "Angela")
+#Just practice input
+input("What is your name?") 
+print("Hello " + input("What is your name?"))
+name = input("What is your name?")
+print(name)
+name = "Rofid"
+print(name)
+name = "Yuna"
+print(name)
 
-# input("What is your name?") 
-
-# print("Hello " + input("What is your name?"))
-
-# name = input("What is your name?")
-# print(name)
-
-# name = "Rofid"
-# print(name)
-
-# name = "Yuna"
-# print(name)
-
-# print( len( input("What is your name?") ) )
-
-# name = input("What is your name?")
-# length = len(name)
-# print(length)
+#Practice input + len
+print( len( input("What is your name?") ) )
+name = input("What is your name?")
+length = len(name)
+print(length)
