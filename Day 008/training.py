@@ -1,16 +1,16 @@
-# def greet():
-#     print("Hello")
-#     print("Hello")
-#     print("Hello")
-#     print("Hello")
+def greet():
+    print("Hello")
+    print("Hello")
+    print("Hello")
+    print("Hello")
 
-# greet()
+greet()
 
-# def greet_with_name(name):
-#     print(f"Hello {name}")
-#     print(f"How do you do {name}")
+def greet_with_name(name):
+    print(f"Hello {name}")
+    print(f"How do you do {name}")
 
-# greet_with_name("Rofid")
+greet_with_name("Rofid")
 
 def greet_with(name, location):
     print(f"hallo moms {name}")
